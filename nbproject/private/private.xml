@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/ammunition/BaseAmmunition.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/ammunition/sub/Knife.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/mission/sub/Hard.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/soldier/sub/SpecialForce.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/objectives/BaseObjectives.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/ammunition/sub/MachineGun.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/soldier/sub/Ranker.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/warehouse/Warehouse.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/mission/Mission.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/ammunition/sub/Gun.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/warehouse/BaseWarehouse.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/soldier/BaseSoldier.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/army/Army.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/objectives/Objectives.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/mission/sub/Easy.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/mission/MissionFactory.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/Driver.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/mission/sub/Medium.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/soldier/sub/Corporal.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/ammunition/AmmunitionFactory.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/soldier/Soldier.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/ammunition/Ammunition.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/ammunition/sub/AutomaticMachine.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/ammunition/sub/RPG.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/ammunition/sub/Helmet.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/army/BaseArmy.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/mission/BaseMission.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/soldier/SoldierFactory.java</file>
+            <file>file:/C:/Users/E2Ps%20ICT/Documents/NetBeansProjects/LastArmy/src/dev/models/ammunition/sub/NightVision.java</file>
+        </group>
+    </open-files>
+</project-private>
